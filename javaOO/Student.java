@@ -2,9 +2,6 @@ public class Student {
 
 	String dclass;
 	int num;
-}
-
- class out{
 	
 	 public static void main(String[] args){
 		 
@@ -15,6 +12,5 @@ public class Student {
 		 
 		 System.out.println("학과 = "+st.dclass);
 		 System.out.println("학번 = "+st.num);
-	 }
-	
 }
+
