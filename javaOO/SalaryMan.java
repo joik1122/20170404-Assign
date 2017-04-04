@@ -12,7 +12,7 @@ public class SalaryMan {
 	}
 	
 	public int getAnnualGross(){
-		salary *= 5;
+		int ymoney = salary * 12 * 5		
 		return salary;
 		
 	}
