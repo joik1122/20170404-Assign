@@ -14,3 +14,4 @@ public class Student {
 		 System.out.println("학번 = "+st.num);
 }
 
+ 
